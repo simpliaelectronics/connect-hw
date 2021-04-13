@@ -13,7 +13,7 @@ Table of Contents
 	* [Security](#security)
 		* [Processor security](#processor-security)
 		* [Secure element](#secure-element)
-	* [Wireless] (#wireless)
+	* [Wireless](#wireless)
 		* [Wifi AW-NM191NF](#wifi-aw-nm191nf)
   * [AW-NM191MA module Connector description](#aw-nm191ma-module-connector-description)
     * [M.2 Interface Top Side](#m.2-interface-top-side)

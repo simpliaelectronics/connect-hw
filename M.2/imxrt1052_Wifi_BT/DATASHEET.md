@@ -30,7 +30,7 @@ Table of Contents
 		* [Expansion connector](#expansion-connector)
 		* [AW-NM191MA module tested antennas](#aw-nm191ma-module-tested-antennas)
   * [Compliance](#compliance)
-        * [AW-NM191MA module](#aw-nm191ma-module)
+    * [AW-NM191MA module](#aw-nm191ma-module)
   * [Ordering](#ordering)
 
 # Functional Description

@@ -5,6 +5,7 @@
 This pack includes:
 
 * [Datasheet](/M.2/imxrt1052_Wifi_BT/DATASHEET.md)
+* [Dimensional drawing](/M.2/imxrt1052_Wifi_BT/MOD_IMXRT_CONNECT_WIFI_DIM.pdf)
 * [3D STEP file](/M.2/imxrt1052_Wifi_BT/MOD_IMXRT_WIFI.step)
 * [Component footprint](/M.2/imxrt1052_Wifi_BT/Placement_Layout.pdf)
 

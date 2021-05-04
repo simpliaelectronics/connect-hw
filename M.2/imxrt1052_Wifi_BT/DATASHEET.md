@@ -1,4 +1,4 @@
-# Compact IMXRT 1052 Datasheet
+# Connect IMXRT 1052 Wifi/BT Datasheet
 
 Table of Contents
 =================
@@ -323,9 +323,9 @@ The Module complies with the mechanical 2230 M.2 specifications.
 
 | Dimmension | Value  |
 |------------|--------|
-| Width      | TBD mm  |
+| Width      | 26 mm  |
 | Height     | 30 mm  |
-| Thickness  | 3.5 mm |
+| Thickness  | 3.8 mm |
 | Weight     | TBD    |
 
 3D files available in the repository.
@@ -346,7 +346,20 @@ The Module complies with the mechanical 2230 M.2 specifications.
 
 ### AW-NM191MA module tested antennas
 
-TBD
+| Brand       | Model             | Ant. Gain (dBi) inc cable loss | Frequency range | Ant. Type | Cable Length (cm) |
+|-------------|-------------------|--------------------------------|-----------------|-----------|-------------------|
+| MAG. Layers | MSA-4008-25GC1-A2 | 2.98                           | 2400 -  2500    | PIFA      | 15                |
 
 # Ordering
-TBD
+The standard part number are shown in this table. Other configurations are available under demand.
+
+|     Código        |     Descripción                                                                                           |
+|-------------------|-----------------------------------------------------------------------------------------------------------|
+|     BA10520000    |     M.2 Connect module Processor i.MX RT 1052 WIFI AW-NM191NF 0MB RAM 0MB Flash No security chip          |
+|     BA10520010    |     M.2 Connect module Processor i.MX RT 1052 WIFI AW-NM191NF 0MB RAM 0MB Flash Security chip installed   |
+|     BA10520300    |     M.2 Connect module Processor i.MX RT 1052 WIFI AW-NM191NF 0MB RAM 4MB Flash No security chip          |
+|     BA10520310    |     M.2 Connect module Processor i.MX RT 1052 WIFI AW-NM191NF 0MB RAM 4MB Flash Security chip installed   |
+|     BA10523400    |     M.2 Connect module Processor i.MX RT 1052 WIFI AW-NM191NF 8MB RAM 8MB Flash No security chip          |
+|     BA10523410    |     M.2 Connect module Processor i.MX RT 1052 WIFI AW-NM191NF 8MB RAM 8MB Flash Security chip installed   |
+|     BA10524500    |     M.2 Connect module Processor i.MX RT 1052 WIFI AW-NM191NF 16MB RAM 16MB Flash No security chip        |
+|     BA10524510    |     M.2 Connect module Processor i.MX RT 1052 WIFI AW-NM191NF 16MB RAM 16MB Flash Security chip installed |

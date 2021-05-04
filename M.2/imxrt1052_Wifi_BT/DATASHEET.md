@@ -28,7 +28,7 @@ Table of Contents
 	* [Tested Connectors](#tested-connectors)
 		* [Key B M.2 connector](#key-b-m.2-connector)
 		* [Expansion connector](#expansion-connector)
-		* [AW-NM191MA module tested antennas] (#aw-nm191ma-module-tested-antennas)
+		* [AW-NM191MA module tested antennas](#aw-nm191ma-module-tested-antennas)
   * [Compliance](#compliance)
         * [AW-NM191MA module](#aw-nm191ma-module)
   * [Ordering](#ordering)
@@ -349,6 +349,12 @@ The Module complies with the mechanical 2230 M.2 specifications.
 | Brand       | Model             | Ant. Gain (dBi) inc cable loss | Frequency range | Ant. Type | Cable Length (cm) |
 |-------------|-------------------|--------------------------------|-----------------|-----------|-------------------|
 | MAG. Layers | MSA-4008-25GC1-A2 | 2.98                           | 2400 -  2500    | PIFA      | 15                |
+
+# Compliance
+
+## AW-NM191MA module
+
+TBD
 
 # Ordering
 The standard part number are shown in this table. Other configurations are available under demand.

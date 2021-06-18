@@ -57,7 +57,7 @@ IMXRT Module is a M.2 2230 format board based in an IMXRT 1052 processor with 16
 	* Parallel camera sensor interface
 	* LCD display controller (up to WXGA 1366x768)
 	* 3x I2S for high-performance, multichannel audio
-* Extensive external memory interface options 
+* Extensive external memory interface options
 	* NAND, eMMC, QuadSPI NOR Flash, and Parallel NOR Flash (not all available on the module)
 
 ![imxrt1052 block diagram](/M.2/imxrt1052_Wifi_BT/images/iMX-RT1050-BD.jpg)
@@ -362,10 +362,10 @@ The standard part number are shown in this table. Other configurations are avail
 |     Código        |     Descripción                                                                                           |
 |-------------------|-----------------------------------------------------------------------------------------------------------|
 |     BA10520000    |     M.2 Connect module Processor i.MX RT 1052 WIFI AW-NM191NF 0MB RAM 0MB Flash No security chip          |
-|     BA10520010    |     M.2 Connect module Processor i.MX RT 1052 WIFI AW-NM191NF 0MB RAM 0MB Flash Security chip installed   |
 |     BA10520300    |     M.2 Connect module Processor i.MX RT 1052 WIFI AW-NM191NF 0MB RAM 4MB Flash No security chip          |
-|     BA10520310    |     M.2 Connect module Processor i.MX RT 1052 WIFI AW-NM191NF 0MB RAM 4MB Flash Security chip installed   |
 |     BA10523400    |     M.2 Connect module Processor i.MX RT 1052 WIFI AW-NM191NF 8MB RAM 8MB Flash No security chip          |
-|     BA10523410    |     M.2 Connect module Processor i.MX RT 1052 WIFI AW-NM191NF 8MB RAM 8MB Flash Security chip installed   |
 |     BA10524500    |     M.2 Connect module Processor i.MX RT 1052 WIFI AW-NM191NF 16MB RAM 16MB Flash No security chip        |
+|     BA10520010    |     M.2 Connect module Processor i.MX RT 1052 WIFI AW-NM191NF 0MB RAM 0MB Flash Security chip installed   |
+|     BA10520310    |     M.2 Connect module Processor i.MX RT 1052 WIFI AW-NM191NF 0MB RAM 4MB Flash Security chip installed   |
+|     BA10523410    |     M.2 Connect module Processor i.MX RT 1052 WIFI AW-NM191NF 8MB RAM 8MB Flash Security chip installed   |
 |     BA10524510    |     M.2 Connect module Processor i.MX RT 1052 WIFI AW-NM191NF 16MB RAM 16MB Flash Security chip installed |

@@ -16,7 +16,7 @@ Table of Contents
 	* [Wireless](#wireless)
 		* [Qectel BG77](#quectel-bg77)
   * [BG77 module Connector description](#bg77-module-connector-description)
-    * [M.2 Interface Top Side](#m2-interface-top-side) 
+    * [M.2 Interface Top Side](#m2-interface-top-side)
     * [M.2 Interface Bottom Side](#m2-interface-bottom-side)
 	* [40 Pin Expansion Connector](#40-pin-expansion-connector)
 	* [Antenna connector](#antenna-connector)
@@ -58,7 +58,7 @@ IMXRT Module is a M.2 2230 format board based in an IMXRT 1052 processor with 16
 	* Parallel camera sensor interface
 	* LCD display controller (up to WXGA 1366x768)
 	* 3x I2S for high-performance, multichannel audio
-* Extensive external memory interface options 
+* Extensive external memory interface options
 	* NAND, eMMC, QuadSPI NOR Flash, and Parallel NOR Flash (not all available on the module)
 
 ![imxrt1052 block diagram](/M.2/imxrt1052_modem_gnss/images/iMX-RT1050-BD.jpg)
@@ -349,4 +349,11 @@ The standard part number are shown in this table. Other configurations are avail
 
 |     Código        |     Descripción                                                                                           |
 |-------------------|-----------------------------------------------------------------------------------------------------------|
-
+|     BA10520001    |     M.2 Connect module Processor i.MX RT 1052 Modem BG77-GNSS 0MB RAM 0MB Flash No security chip          |
+|     BA10520301    |     M.2 Connect module Processor i.MX RT 1052 Modem BG77-GNSS 0MB RAM 4MB Flash No security chip          |
+|     BA10523401    |     M.2 Connect module Processor i.MX RT 1052 Modem BG77-GNSS 8MB RAM 8MB Flash No security chip          |
+|     BA10524501    |     M.2 Connect module Processor i.MX RT 1052 Modem BG77-GNSS 16MB RAM 16MB Flash No security chip        |
+|     BA10520011    |     M.2 Connect module Processor i.MX RT 1052 Modem BG77-GNSS 0MB RAM 0MB Flash Security chip installed   |
+|     BA10520311    |     M.2 Connect module Processor i.MX RT 1052 Modem BG77-GNSS 0MB RAM 4MB Flash Security chip installed   |
+|     BA10523411    |     M.2 Connect module Processor i.MX RT 1052 Modem BG77-GNSS 8MB RAM 8MB Flash Security chip installed   |
+|     BA10524511    |     M.2 Connect module Processor i.MX RT 1052 Modem BG77-GNSS 16MB RAM 16MB Flash Security chip installed |

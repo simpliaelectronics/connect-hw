@@ -1,4 +1,4 @@
-# Connect IMXRT 1052 LTE-M/Nb-IoT/GNSS Datasheet
+# CONNECT IMXRT 1052 LTE-M/Nb-IoT/GNSS Datasheet
 
 Table of Contents
 =================

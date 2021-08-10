@@ -1,4 +1,4 @@
-# COMPACT 1052 Module documentation pack
+# CONNECT IMXRT 1052 LTE-M/Nb-IoT/GNSS Module documentation pack
 
 ![Connect imxrt1052 LTE-M/Nb-IoT/GNSS](/M.2/imxrt1052_modem_gnss/images/connect_imxrt1052_modem_gnss.jpg)
 

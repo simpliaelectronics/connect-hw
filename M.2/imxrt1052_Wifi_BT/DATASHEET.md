@@ -1,4 +1,4 @@
-# Connect IMXRT 1052 Wifi/BT Datasheet
+# CONNECT IMXRT 1052 Wifi/BT Datasheet
 
 Table of Contents
 =================
@@ -8,8 +8,8 @@ Table of Contents
 	* [Processor features](#processor-features)
     * [Module features](#module-features)
     * [Interfaces](#interfaces)
-       * [Block Diagram](#block-diagram)
-       * [Peripherals and GPIOs](#peripherals-and-gpios)
+        * [Block Diagram](#block-diagram)
+        * [Peripherals and GPIOs](#peripherals-and-gpios)
 	* [Security](#security)
 		* [Processor security](#processor-security)
 		* [Secure element](#secure-element)
@@ -30,7 +30,7 @@ Table of Contents
 		* [Expansion connector](#expansion-connector)
 		* [AW-NM191MA module tested antennas](#aw-nm191ma-module-tested-antennas)
   * [Compliance](#compliance)
-    * [AW-NM191MA module](#aw-nm191ma-module)
+        * [AW-NM191MA module](#aw-nm191ma-module)
   * [Ordering](#ordering)
 
 # Functional Description

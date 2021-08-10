@@ -1,4 +1,4 @@
-# COMPACT 1052 Module documentation pack
+# CONNECT IMXRT 1052 Wifi/BT Module documentation pack
 
 ![Connect imxrt1052 Wifi/BT](/M.2/imxrt1052_Wifi_BT/images/connect_imxrt1052_wifi.jpg)
 

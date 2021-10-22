@@ -347,13 +347,13 @@ TBD
 # Ordering
 The standard part number are shown in this table. Other configurations are available under demand.
 
-|     Código        |     Descripción                                                                                           |
-|-------------------|-----------------------------------------------------------------------------------------------------------|
-|     BA10520001    |     M.2 Connect module Processor i.MX RT 1052 Modem BG77-GNSS 0MB RAM 0MB Flash No security chip          |
-|     BA10520301    |     M.2 Connect module Processor i.MX RT 1052 Modem BG77-GNSS 0MB RAM 4MB Flash No security chip          |
-|     BA10523401    |     M.2 Connect module Processor i.MX RT 1052 Modem BG77-GNSS 8MB RAM 8MB Flash No security chip          |
-|     BA10524501    |     M.2 Connect module Processor i.MX RT 1052 Modem BG77-GNSS 16MB RAM 16MB Flash No security chip        |
-|     BA10520011    |     M.2 Connect module Processor i.MX RT 1052 Modem BG77-GNSS 0MB RAM 0MB Flash Security chip installed   |
-|     BA10520311    |     M.2 Connect module Processor i.MX RT 1052 Modem BG77-GNSS 0MB RAM 4MB Flash Security chip installed   |
-|     BA10523411    |     M.2 Connect module Processor i.MX RT 1052 Modem BG77-GNSS 8MB RAM 8MB Flash Security chip installed   |
-|     BA10524511    |     M.2 Connect module Processor i.MX RT 1052 Modem BG77-GNSS 16MB RAM 16MB Flash Security chip installed |
+|     Código     |     Descripción                                                                                           |
+|----------------|-----------------------------------------------------------------------------------------------------------|
+|     BAB0001    |     M.2 Connect module Processor i.MX RT 1052 Modem BG77-GNSS 0MB RAM 0MB Flash No security chip          |
+|     BAB0301    |     M.2 Connect module Processor i.MX RT 1052 Modem BG77-GNSS 0MB RAM 4MB Flash No security chip          |
+|     BAB3401    |     M.2 Connect module Processor i.MX RT 1052 Modem BG77-GNSS 8MB RAM 8MB Flash No security chip          |
+|     BAB4501    |     M.2 Connect module Processor i.MX RT 1052 Modem BG77-GNSS 16MB RAM 16MB Flash No security chip        |
+|     BAB0011    |     M.2 Connect module Processor i.MX RT 1052 Modem BG77-GNSS 0MB RAM 0MB Flash Security chip installed   |
+|     BAB0311    |     M.2 Connect module Processor i.MX RT 1052 Modem BG77-GNSS 0MB RAM 4MB Flash Security chip installed   |
+|     BAB3411    |     M.2 Connect module Processor i.MX RT 1052 Modem BG77-GNSS 8MB RAM 8MB Flash Security chip installed   |
+|     BAB4511    |     M.2 Connect module Processor i.MX RT 1052 Modem BG77-GNSS 16MB RAM 16MB Flash Security chip installed |

@@ -359,13 +359,13 @@ TBD
 # Ordering
 The standard part number are shown in this table. Other configurations are available under demand.
 
-|     Código        |     Descripción                                                                                           |
-|-------------------|-----------------------------------------------------------------------------------------------------------|
-|     BA10520000    |     M.2 Connect module Processor i.MX RT 1052 WIFI AW-NM191NF 0MB RAM 0MB Flash No security chip          |
-|     BA10520300    |     M.2 Connect module Processor i.MX RT 1052 WIFI AW-NM191NF 0MB RAM 4MB Flash No security chip          |
-|     BA10523400    |     M.2 Connect module Processor i.MX RT 1052 WIFI AW-NM191NF 8MB RAM 8MB Flash No security chip          |
-|     BA10524500    |     M.2 Connect module Processor i.MX RT 1052 WIFI AW-NM191NF 16MB RAM 16MB Flash No security chip        |
-|     BA10520010    |     M.2 Connect module Processor i.MX RT 1052 WIFI AW-NM191NF 0MB RAM 0MB Flash Security chip installed   |
-|     BA10520310    |     M.2 Connect module Processor i.MX RT 1052 WIFI AW-NM191NF 0MB RAM 4MB Flash Security chip installed   |
-|     BA10523410    |     M.2 Connect module Processor i.MX RT 1052 WIFI AW-NM191NF 8MB RAM 8MB Flash Security chip installed   |
-|     BA10524510    |     M.2 Connect module Processor i.MX RT 1052 WIFI AW-NM191NF 16MB RAM 16MB Flash Security chip installed |
+|     Código     |     Descripción                                                                                           |
+|----------------|-----------------------------------------------------------------------------------------------------------|
+|     BAB0000    |     M.2 Connect module Processor i.MX RT 1052 WIFI AW-NM191NF 0MB RAM 0MB Flash No security chip          |
+|     BAB0300    |     M.2 Connect module Processor i.MX RT 1052 WIFI AW-NM191NF 0MB RAM 4MB Flash No security chip          |
+|     BAB3400    |     M.2 Connect module Processor i.MX RT 1052 WIFI AW-NM191NF 8MB RAM 8MB Flash No security chip          |
+|     BAB4500    |     M.2 Connect module Processor i.MX RT 1052 WIFI AW-NM191NF 16MB RAM 16MB Flash No security chip        |
+|     BAB0010    |     M.2 Connect module Processor i.MX RT 1052 WIFI AW-NM191NF 0MB RAM 0MB Flash Security chip installed   |
+|     BAB0310    |     M.2 Connect module Processor i.MX RT 1052 WIFI AW-NM191NF 0MB RAM 4MB Flash Security chip installed   |
+|     BAB3410    |     M.2 Connect module Processor i.MX RT 1052 WIFI AW-NM191NF 8MB RAM 8MB Flash Security chip installed   |
+|     BAB4510    |     M.2 Connect module Processor i.MX RT 1052 WIFI AW-NM191NF 16MB RAM 16MB Flash Security chip installed |
